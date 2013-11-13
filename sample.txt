@@ -1,7 +1,6 @@
 Hello!
 v1
 v2
-<<<<<<< HEAD
-my name is peter cao! how are you my firend?
-=======
->>>>>>> 1a2fe66f2cffa2615703337ead410122442f9f16
+
+
+bb
